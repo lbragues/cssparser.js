@@ -22,9 +22,9 @@
   "bugs": {
     "url": "http://github.com/cwdoh/cssparser.js/issues"
   },
-  "main": "lib/cli.js",
+  "main": "lib/cssparser.js",
   "bin": {
-    "cssparser": "lib/cli.js"
+    "cssparser": "lib/cssparser.js"
   },
   "engines": {
     "node": ">= 0.6"
